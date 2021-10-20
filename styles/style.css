@@ -16,4 +16,10 @@ h2{
 }
 .box3{
     color: tomato;
+    background: yellow;
+    border: 1px solid black;
+    height: 98px;
+    border-radius: 50%;
+    width: 151px;
+    margin: auto;
 }
