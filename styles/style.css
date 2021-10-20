@@ -11,6 +11,9 @@ h2{
 }
 .box2{
     background-color:#ebebeb;
-    width: 500px;
+    width: 499px;
     display: inline-block;
+}
+.box3{
+    color: tomato;
 }
